@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 15px;
+}
+
+header {
+    background:green;
+    color: brown;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 15;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px 15px;
+}
+
+nav ul li a {
+    color:brown;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+.profile-pic {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.project {
+    margin: 20px p25x;
+}
+
+.project img {
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: olive;
+    color: red;
+    position: fixed;
+    bottom: 0;
+    width: 20%;
+    height: 2%;
+}
